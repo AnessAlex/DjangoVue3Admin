@@ -1,7 +1,5 @@
 
 # DjangoVue3Admin
-> 打个广告：Python爬虫管理平台上线了：https://github.com/taskPyroer/taskpyro
-
 ## 项目简介
 
 DjangoVue3Admin 是一个基于 Django + Vue3 的前后端分离的后台管理系统，采用了最新的前后端技术栈，内置了丰富的功能模块，可以帮助开发者快速搭建企业级中后台产品。
